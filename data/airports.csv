@@ -1,0 +1,150 @@
+﻿City,Country,Airport Name,IATA Code,ICAO Code,Airport Type
+Abu Dhabi,United Arab Emirates,Abu Dhabi International Airport,AUH,OMAA,International
+Abu Dhabi,United Arab Emirates,Al Bateen Executive Airport,AZI,OMAD,Executive
+Amman,Jordan,Queen Alia International Airport,AMM,OJAI,International
+Amman,Jordan,Marka International Airport,ADJ,OJAM,Domestic
+Amsterdam,Netherlands,Amsterdam Schiphol Airport,AMS,EHAM,International
+Ankara,Turkey,EsenboÄŸa International Airport,ESB,LTAC,International
+Athens,Greece,Athens International Airport,ATH,LGAV,International
+Atlanta,United States,Hartsfield-Jackson Atlanta International Airport,ATL,KATL,International
+Auckland,New Zealand,Auckland Airport,AKL,NZAA,International
+Baghdad,Iraq,Baghdad International Airport,BGW,ORBI,International
+Bahrain,Bahrain,Bahrain International Airport,BAH,OBBI,International
+Bangkok,Thailand,Suvarnabhumi Airport,BKK,VTBS,International
+Bangkok,Thailand,Don Mueang International Airport,DMK,VTBD,International
+Barcelona,Spain,Josep Tarradellas Barcelona-El Prat Airport,BCN,LEBL,International
+Beijing,China,Beijing Capital International Airport,PEK,ZBAA,International
+Beijing,China,Beijing Daxing International Airport,PKX,ZBAD,International
+Beirut,Lebanon,Rafic Hariri International Airport,BEY,OLBA,International
+Belgrade,Serbia,Belgrade Nikola Tesla Airport,BEG,LYBE,International
+Berlin,Germany,Berlin Brandenburg Airport,BER,EDDB,International
+BogotÃ¡,Colombia,El Dorado International Airport,BOG,SKBO,International
+Brussels,Belgium,Brussels Airport,BRU,EBBR,International
+Brussels,Belgium,Brussels South Charleroi Airport,CRL,EBCI,International
+Bucharest,Romania,Henri CoandÄƒ International Airport,OTP,LROP,International
+Bucharest,Romania,BÄƒneasa Aurel Vlaicu Airport,BBU,LRBS,Domestic
+Budapest,Hungary,Budapest Ferenc Liszt International Airport,BUD,LHBP,International
+Buenos Aires,Argentina,Ministro Pistarini International Airport (Ezeiza),EZE,SAEZ,International
+Buenos Aires,Argentina,Aeroparque Jorge Newbery,AEP,SABE,Domestic
+Cairo,Egypt,Cairo International Airport,CAI,HECA,International
+Cape Town,South Africa,Cape Town International Airport,CPT,FACT,International
+Casablanca,Morocco,Mohammed V International Airport,CMN,GMMN,International
+Chennai,India,Chennai International Airport,MAA,VOMM,International
+Chicago,United States,O'Hare International Airport,ORD,KORD,International
+Chicago,United States,Midway International Airport,MDW,KMDW,Domestic
+Colombo,Sri Lanka,Bandaranaike International Airport,CMB,VCBI,International
+Copenhagen,Denmark,Copenhagen Airport,CPH,EKCH,International
+Dallas,United States,Dallas/Fort Worth International Airport,DFW,KDFW,International
+Dallas,United States,Dallas Love Field,DAL,KDAL,Domestic
+Dammam,Saudi Arabia,King Fahd International Airport,DMM,OEDF,International
+Delhi,India,Indira Gandhi International Airport,DEL,VIDP,International
+Doha,Qatar,Hamad International Airport,DOH,OTHH,International
+Dubai,United Arab Emirates,Dubai International Airport,DXB,OMDB,International
+Dubai,United Arab Emirates,Al Maktoum International Airport,DWC,OMDW,International
+Dublin,Ireland,Dublin Airport,DUB,EIDW,International
+DÃ¼sseldorf,Germany,DÃ¼sseldorf Airport,DUS,EDDL,International
+Edinburgh,United Kingdom,Edinburgh Airport,EDI,EGPH,International
+Frankfurt,Germany,Frankfurt Airport,FRA,EDDF,International
+Frankfurt,Germany,Frankfurt-Hahn Airport,HHN,EDFH,International
+Geneva,Switzerland,Geneva Airport,GVA,LSGG,International
+Guangzhou,China,Guangzhou Baiyun International Airport,CAN,ZGGG,International
+Helsinki,Finland,Helsinki-Vantaa Airport,HEL,EFHK,International
+Ho Chi Minh City,Vietnam,Tan Son Nhat International Airport,SGN,VVTS,International
+Hong Kong,China,Hong Kong International Airport,HKG,VHHH,International
+Houston,United States,George Bush Intercontinental Airport,IAH,KIAH,International
+Houston,United States,William P. Hobby Airport,HOU,KHOU,Domestic
+Hyderabad,India,Rajiv Gandhi International Airport,HYD,VOHS,International
+Istanbul,Turkey,Istanbul Airport,IST,LTFM,International
+Istanbul,Turkey,Sabiha GÃ¶kÃ§en International Airport,SAW,LTFJ,International
+Jakarta,Indonesia,Soekarno-Hatta International Airport,CGK,WIII,International
+Jakarta,Indonesia,Halim Perdanakusuma Airport,HLP,WIHH,Domestic
+Jeddah,Saudi Arabia,King Abdulaziz International Airport,JED,OEJN,International
+Johannesburg,South Africa,O.R. Tambo International Airport,JNB,FAOR,International
+Johannesburg,South Africa,Lanseria International Airport,HLA,FALA,International
+Karachi,Pakistan,Jinnah International Airport,KHI,OPKC,International
+Kolkata,India,Netaji Subhas Chandra Bose International Airport,CCU,VECC,International
+Kuala Lumpur,Malaysia,Kuala Lumpur International Airport,KUL,WMKK,International
+Kuala Lumpur,Malaysia,Sultan Abdul Aziz Shah Airport,SZB,WMSA,Domestic
+Kuwait City,Kuwait,Kuwait International Airport,KWI,OKBK,International
+Lagos,Nigeria,Murtala Muhammed International Airport,LOS,DNMM,International
+Lima,Peru,Jorge ChÃ¡vez International Airport,LIM,SPJC,International
+Lisbon,Portugal,Lisbon Humberto Delgado Airport,LIS,LPPT,International
+London,United Kingdom,Heathrow Airport,LHR,EGLL,International
+London,United Kingdom,Gatwick Airport,LGW,EGKK,International
+London,United Kingdom,Stansted Airport,STN,EGSS,International
+London,United Kingdom,Luton Airport,LTN,EGGW,International
+London,United Kingdom,London City Airport,LCY,EGLC,International
+London,United Kingdom,Southend Airport,SEN,EGMC,International
+Los Angeles,United States,Los Angeles International Airport,LAX,KLAX,International
+Los Angeles,United States,Ontario International Airport,ONT,KONT,International
+Los Angeles,United States,Hollywood Burbank Airport,BUR,KBUR,Domestic
+Los Angeles,United States,Long Beach Airport,LGB,KLGB,Domestic
+Los Angeles,United States,John Wayne Airport,SNA,KSNA,Domestic
+Madrid,Spain,Adolfo SuÃ¡rez Madrid-Barajas Airport,MAD,LEMD,International
+Manchester,United Kingdom,Manchester Airport,MAN,EGCC,International
+Manila,Philippines,Ninoy Aquino International Airport,MNL,RPLL,International
+Melbourne,Australia,Melbourne Airport (Tullamarine),MEL,YMML,International
+Melbourne,Australia,Avalon Airport,AVV,YMAV,Domestic
+Mexico City,Mexico,Benito JuÃ¡rez International Airport,MEX,MMMX,International
+Mexico City,Mexico,Felipe Ãngeles International Airport,NLU,MMSM,International
+Miami,United States,Miami International Airport,MIA,KMIA,International
+Miami,United States,Fort Lauderdale-Hollywood International Airport,FLL,KFLL,International
+Milan,Italy,Malpensa Airport,MXP,LIMC,International
+Milan,Italy,Linate Airport,LIN,LIML,International
+Milan,Italy,Orio al Serio Airport (Bergamo),BGY,LIME,International
+Montreal,Canada,MontrÃ©al-Pierre Elliott Trudeau International Airport,YUL,CYUL,International
+Moscow,Russia,Sheremetyevo International Airport,SVO,UUEE,International
+Moscow,Russia,Domodedovo International Airport,DME,UUDD,International
+Moscow,Russia,Vnukovo International Airport,VKO,UUWW,International
+Mumbai,India,Chhatrapati Shivaji Maharaj International Airport,BOM,VABB,International
+Munich,Germany,Munich Airport,MUC,EDDM,International
+Muscat,Oman,Muscat International Airport,MCT,OOMS,International
+Nairobi,Kenya,Jomo Kenyatta International Airport,NBO,HKJK,International
+Nairobi,Kenya,Wilson Airport,WIL,HKNW,Domestic
+New York,United States,John F. Kennedy International Airport,JFK,KJFK,International
+New York,United States,LaGuardia Airport,LGA,KLGA,Domestic
+New York,United States,Newark Liberty International Airport,EWR,KEWR,International
+Osaka,Japan,Kansai International Airport,KIX,RJBB,International
+Osaka,Japan,Osaka Itami Airport,ITM,RJOO,Domestic
+Oslo,Norway,Oslo Gardermoen Airport,OSL,ENGM,International
+Oslo,Norway,Sandefjord Airport Torp,TRF,ENTO,International
+Paris,France,Charles de Gaulle Airport,CDG,LFPG,International
+Paris,France,Orly Airport,ORY,LFPO,International
+Paris,France,Beauvais-TillÃ© Airport,BVA,LFOB,International
+Prague,Czech Republic,VÃ¡clav Havel Airport Prague,PRG,LKPR,International
+Riyadh,Saudi Arabia,King Khalid International Airport,RUH,OERK,International
+Rome,Italy,Leonardo da Vinci-Fiumicino Airport,FCO,LIRF,International
+Rome,Italy,Ciampino Airport,CIA,LIRA,International
+San Francisco,United States,San Francisco International Airport,SFO,KSFO,International
+San Francisco,United States,Oakland International Airport,OAK,KOAK,International
+San Francisco,United States,San Jose International Airport,SJC,KSJC,International
+Santiago,Chile,Arturo Merino BenÃ­tez International Airport,SCL,SCEL,International
+SÃ£o Paulo,Brazil,SÃ£o Paulo/Guarulhos International Airport,GRU,SBGR,International
+SÃ£o Paulo,Brazil,Congonhas Airport,CGH,SBSP,Domestic
+SÃ£o Paulo,Brazil,Viracopos International Airport,VCP,SBKP,International
+Seoul,South Korea,Incheon International Airport,ICN,RKSI,International
+Seoul,South Korea,Gimpo International Airport,GMP,RKSS,International
+Shanghai,China,Shanghai Pudong International Airport,PVG,ZSPD,International
+Shanghai,China,Shanghai Hongqiao International Airport,SHA,ZSSS,International
+Singapore,Singapore,Singapore Changi Airport,SIN,WSSS,International
+Singapore,Singapore,Seletar Airport,XSP,WSSL,General Aviation
+Stockholm,Sweden,Stockholm Arlanda Airport,ARN,ESSA,International
+Stockholm,Sweden,Stockholm Skavsta Airport,NYO,ESKN,International
+Sydney,Australia,Sydney Kingsford Smith Airport,SYD,YSSY,International
+Taipei,Taiwan,Taiwan Taoyuan International Airport,TPE,RCTP,International
+Taipei,Taiwan,Taipei Songshan Airport,TSA,RCSS,Domestic
+Tehran,Iran,Imam Khomeini International Airport,IKA,OIIE,International
+Tehran,Iran,Mehrabad International Airport,THR,OIII,Domestic
+Tel Aviv,Israel,Ben Gurion Airport,TLV,LLBG,International
+Tokyo,Japan,Narita International Airport,NRT,RJAA,International
+Tokyo,Japan,Haneda Airport,HND,RJTT,International
+Toronto,Canada,Toronto Pearson International Airport,YYZ,CYYZ,International
+Toronto,Canada,Billy Bishop Toronto City Airport,YTZ,CYTZ,Domestic
+Vancouver,Canada,Vancouver International Airport,YVR,CYVR,International
+Vienna,Austria,Vienna International Airport,VIE,LOWW,International
+Warsaw,Poland,Warsaw Chopin Airport,WAW,EPWA,International
+Warsaw,Poland,Warsaw Modlin Airport,WMI,EPMO,International
+Washington D.C.,United States,Washington Dulles International Airport,IAD,KIAD,International
+Washington D.C.,United States,Ronald Reagan Washington National Airport,DCA,KDCA,Domestic
+Washington D.C.,United States,Baltimore/Washington International Airport,BWI,KBWI,International
+ZÃ¼rich,Switzerland,ZÃ¼rich Airport,ZRH,LSZH,International
